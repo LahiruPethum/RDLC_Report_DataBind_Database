@@ -1,0 +1,16 @@
+E:\.net\RDLC_Report_Data_Bind\ReportDesign\bin\Debug\ReportDesign.exe.config
+E:\.net\RDLC_Report_Data_Bind\ReportDesign\bin\Debug\ReportDesign.exe
+E:\.net\RDLC_Report_Data_Bind\ReportDesign\bin\Debug\ReportDesign.pdb
+E:\.net\RDLC_Report_Data_Bind\ReportDesign\bin\Debug\EntityFramework.dll
+E:\.net\RDLC_Report_Data_Bind\ReportDesign\bin\Debug\EntityFramework.SqlServer.dll
+E:\.net\RDLC_Report_Data_Bind\ReportDesign\bin\Debug\EntityFramework.xml
+E:\.net\RDLC_Report_Data_Bind\ReportDesign\bin\Debug\EntityFramework.SqlServer.xml
+E:\.net\RDLC_Report_Data_Bind\ReportDesign\obj\Debug\ReportDesign.csproj.AssemblyReference.cache
+E:\.net\RDLC_Report_Data_Bind\ReportDesign\obj\Debug\ReportDesign.Properties.Resources.resources
+E:\.net\RDLC_Report_Data_Bind\ReportDesign\obj\Debug\ReportDesign.csproj.GenerateResource.cache
+E:\.net\RDLC_Report_Data_Bind\ReportDesign\obj\Debug\RdlCompile.cache
+E:\.net\RDLC_Report_Data_Bind\ReportDesign\obj\Debug\RdlCompile.compiled
+E:\.net\RDLC_Report_Data_Bind\ReportDesign\obj\Debug\ReportDesign.csproj.CoreCompileInputs.cache
+E:\.net\RDLC_Report_Data_Bind\ReportDesign\obj\Debug\ReportDesign.csproj.CopyComplete
+E:\.net\RDLC_Report_Data_Bind\ReportDesign\obj\Debug\ReportDesign.exe
+E:\.net\RDLC_Report_Data_Bind\ReportDesign\obj\Debug\ReportDesign.pdb
